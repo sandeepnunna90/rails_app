@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Create a Sample Rails applicaiton for implementating a CI/CD pipleline to provide solutions for 
+the build design problems when adopting Continous Integration practices.
 
 Things you may want to cover:
 
@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* Updating Read me
+* Updating Read ME
